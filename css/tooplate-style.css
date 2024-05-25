@@ -267,6 +267,7 @@ a:hover, a:active, a:focus {
   background: #ffffff;
   border-radius: 5px;
   padding: 42px 32px;
+  text-align: justify;
 }
 
 /*---------------------------------------
